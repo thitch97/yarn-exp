@@ -1,0 +1,6 @@
+{
+  "name": "new2",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
